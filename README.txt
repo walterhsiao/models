@@ -1,1 +1,0 @@
-storage location for STL files, for integrating with FabFabbers
